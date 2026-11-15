@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Digital Products Storefront",
+  "description": "Digital Products. Unlimited Possibilities. Premium ebooks, PDF guides, templates, courses, and digital resources with instant Razorpay checkout and secure download delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
