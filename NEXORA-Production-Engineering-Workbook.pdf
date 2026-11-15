@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1309 >>
+stream
+BT
+/F1 20 Tf
+54 740 Td
+(Full-Stack Production Engineering Masterclass) Tj
+/F1 10 Tf
+0 -22 Td
+(NEXORA Digital Vault - Licensed Distribution) Tj
+0 -24 Td
+/F1 11 Tf
+(Product: Full-Stack Production Engineering Masterclass) Tj
+0 -17 Td
+(Format: HD Video + PDF | Length: 14 Hours   38 Lessons) Tj
+0 -17 Td
+(----------------------------------------------------------------) Tj
+0 -17 Td
+(14-hour modular masterclass with companion PDF lab manuals. Learn how to architect fast ) Tj
+0 -17 Td
+(----------------------------------------------------------------) Tj
+0 -17 Td
+(Included Key Highlights:) Tj
+0 -17 Td
+(* 38 studio-recorded 4K engineering lessons + PDF workbook) Tj
+0 -17 Td
+(* Complete reference repositories and CI/CD checklists) Tj
+0 -17 Td
+(* Verified completion credential and lifetime curriculum access) Tj
+0 -17 Td
+(----------------------------------------------------------------) Tj
+0 -17 Td
+(Preview & Curriculum Outline:) Tj
+0 -17 Td
+(Module 01: Sub-50ms Edge Caching & API Routing) Tj
+0 -17 Td
+(Module 02: Cryptographic HMAC Payment Signature Verification) Tj
+0 -17 Td
+(Module 03: Private Digital Asset Delivery via Short-Lived Signed URLs) Tj
+0 -17 Td
+(----------------------------------------------------------------) Tj
+0 -17 Td
+(Licensed exclusively through NEXORA Digital Vault.) Tj
+0 -17 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001602 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1672
+%%EOF
